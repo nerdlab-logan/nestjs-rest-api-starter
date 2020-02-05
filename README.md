@@ -57,3 +57,7 @@ yarn start:prod
 auth api document(로컬 기준) : http://localhost:3030/api/docs/auth<br>
 user api document(로컬 기준) : http://localhost:3030/api/docs/user<br>
 admin api document(로컬 기준) : http://localhost:3030/api/docs/admin
+
+## License
+
+[MIT](LICENSE)
