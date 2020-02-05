@@ -20,8 +20,8 @@
     - **db.sql** 테이블 생성
 
 1. env 설정파일 작성 (파일 위치 : src > config > env)
-    - .env.dev 파일 - 개발용 환경설정
-    - .env.prod 파일 - 운영용 환경설정
+    - **.env.dev** 파일 - 개발용 환경설정
+    - **.env.prod** 파일 - 운영용 환경설정
     
 ## 설치 방법
 ```shell script
